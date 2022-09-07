@@ -1,0 +1,4 @@
+linkify-it-py==2.0.0
+myst-parser==0.18.0
+pydata-sphinx-theme==0.10.1
+sphinx==5.1.1
