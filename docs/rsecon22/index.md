@@ -1,5 +1,19 @@
 # Trusted Research Environments RSECON 2022: Information for attendees
 
+```{toctree}
+:maxdepth: 1
+:hidden: true
+
+community-management
+data-linkage
+general
+ingress-egress
+opensource-infrastructure
+software-development
+standardisation-governance
+user-experience
+```
+
 ## 09:00 - 16:00 Monday 5th September 2022
 
 Location: Room 2.16, [The Frederick Douglass Centre, Newcastle University](https://www.google.com/maps/place/The+Frederick+Douglass+Centre,+Newcastle+University/@54.972949,-1.625321,18z/data=!4m5!3m4!1s0x0:0x7ad7e5d4033f0a66!8m2!3d54.9731445!4d-1.625024?hl=en-GB&shorturl=1)
@@ -82,23 +96,23 @@ To have a community space where people can collaborate on and communicate about 
 
 ### Session 1 - 13:15 - 13:45
 
-1. [Community management](https://hackmd.io/9ZBpaeFGTHquSHQBMLh_Mg)
-2. [Standardisation of information governance, certification & regulation](https://hackmd.io/qXOzeGBgQ5aejX9xBT6EbQ)
-3. [Managing software development in a TRE](https://hackmd.io/tgJ-bNJgQBStoZ8-8cqC2w)
-4. [General Discussion](https://hackmd.io/T2rvMD0cSL6PDFDPurd8xg)
+1. [Community management](community-management)
+2. [Standardisation of information governance, certification & regulation](standardisation-governance)
+3. [Managing software development in a TRE](software-development)
+4. [General Discussion](general)
 
 ### Session 2 - 13:50 - 14:20
 
-1. [Community management](https://hackmd.io/9ZBpaeFGTHquSHQBMLh_Mg)
-2. [User experience in TREs](https://hackmd.io/t5xfBM4oSmuLUiTY8WE6qA)
-3. [Open source infrastructure and collaborations](https://hackmd.io/PB0bHmYSQSe9CWiPqg2f4w)
-4. [General Discussion](https://hackmd.io/T2rvMD0cSL6PDFDPurd8xg)
+1. [Community management](community-management)
+2. [User experience in TREs](user-experience)
+3. [Open source infrastructure and collaborations](opensource-infrastructure)
+4. [General Discussion](general)
 
 ### Session 3 - 14:25 - 14:55
 
-1. [Community management](https://hackmd.io/9ZBpaeFGTHquSHQBMLh_Mg)
-2. [Safe data linkage and quality control](https://hackmd.io/oZJIy_7tQeuJQdigwL8gKg)
-3. [Ingress/egress mechanisms/controls/policies](https://hackmd.io/mbvCza5uQQOQCSybHCVf-g)
-4. [General Discussion](https://hackmd.io/T2rvMD0cSL6PDFDPurd8xg)
+1. [Community management](community-management)
+2. [Safe data linkage and quality control](data-linkage)
+3. [Ingress/egress mechanisms/controls/policies](ingress-egress)
+4. [General Discussion](general)
 
 ### Washup - 15:00 - 15:45
