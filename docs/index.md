@@ -4,6 +4,5 @@
 :maxdepth: 1
 :caption: Contents
 
-rsecon22/index
 meetings/index
 ```
