@@ -1,18 +1,6 @@
-# Trusted Research Environments RSECON 2022: Information for attendees
+(rsecon22_day_details)=
 
-```{toctree}
-:maxdepth: 1
-:hidden: true
-
-community-management
-data-linkage
-general
-ingress-egress
-opensource-infrastructure
-software-development
-standardisation-governance
-user-experience
-```
+# Dat schedule
 
 ## 09:00 - 16:00 Monday 5th September 2022
 
@@ -20,8 +8,6 @@ Location: Room 2.16, [The Frederick Douglass Centre, Newcastle University](https
 
 Room open: 09:00
 Day start: 09:30
-
-Notes of this meeting will be written up and published online for the benefit of the wider community.
 
 [Code of conduct](https://society-rse.org/about/policies/code-of-conduct/)
 
@@ -60,8 +46,6 @@ To have a community space where people can collaborate on and communicate about 
 | 15:15 - 16:00   | Washup                                                                                                                                                                          |
 
 ### Suggested topics for afternoon discussion
-
-(Exact topics for discussion will be decided on the day)
 
 - Community management & engagement
 - Best practices for publishing research done with TREs
