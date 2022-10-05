@@ -1,3 +1,1 @@
-(vision)=
-
 # Vision

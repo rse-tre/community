@@ -1,5 +1,3 @@
-(rsecon2022_report)=
-
 # TRE Satellite event report
 
 ## Introduction
@@ -138,9 +136,9 @@ They work with researchers on design solutions to working with the dataset, and 
 
 All links to raw notes for breakout discussions can be found here
 
-#### Community management
+### Community management
 
-##### Prompts
+#### Prompts
 
 - What tools & methods are we using to communicate?
 - What are the areas that we should initially focus on?
@@ -148,7 +146,7 @@ All links to raw notes for breakout discussions can be found here
 - What should this community space be used for?
 - What are our key principles for collaboration?
 
-##### Discussion
+#### Discussion
 
 In order to pull together all the work everyone is doing and facilitate collaboration, it is important to have a community space where people can share knowledge and coordinate efforts.
 To begin with, it’s important to have a space that people know about, and it can be relatively free-form.
@@ -161,23 +159,23 @@ Ideas were discussed around what the group should focus on, while stressing the 
 
 A good initial activity would be to get a clear picture of what projects are currently working on TREs in the UK, and their key features.
 
-##### Next steps
+#### Next steps
 
 - Talk to communities that have grown successfully (e.g. RSECon, Turing Way, HPC-UK)
 - Carry out a baseline ‘survey’ of who has done what in the TRE space in the UK, and possibly abroad
 - Discuss possibility and method for funding time, or a role, to coordinate the community
 - Agree on governing principles, target audience, and mission of community.
 
-#### Standardisation of information governance, certification & regulation
+### Standardisation of information governance, certification & regulation
 
-##### Prompts
+#### Prompts
 
 - How do we standardise sticky issues around ethics?
 - What definitely can/can’t be standardised?
 - Can certifications and governance reviews be done once for each TRE code-base?
 - Can information governance reviews be shared across TREs?
 
-##### Discussion
+#### Discussion
 
 Standardisation is made difficult due to a large variety in data, for instance different types of data, data sensitivity etc. requiring different approaches and governance.
 The lack of definition for ‘TRE’ also makes standardisation difficult from the perspective of data providers.
@@ -189,22 +187,22 @@ NHSx has proposed a ‘soft’ accreditation for TREs to reduce friction for col
 
 Additionally, there are already pre-existing standards that can be built off to approach TRE certification & governance, for instance ISO27001, DSPT, Cyber Essentials +. Understanding what already exists and how they are operated would be a useful next step.
 
-##### Next steps
+#### Next steps
 
 - Identify, survey and take inspiration from organisations that have pre-existing certifications and are seen as having good quality governance in place of what already works and is ‘acceptable’ in the UK. E.g. UK BioBank.
 - Identify the ‘hard requirements’ for different organisations/types of data. E.g. Cyber Essentials + for MoD.
 - Agree upon a clear definition of what a TRE is (and is not). This is important for data providers.
 
-#### Managing software development in a TRE
+### Managing software development in a TRE
 
-##### Prompts
+#### Prompts
 
 - What tools and applications are needed inside a TRE to enable software development?
 - How do we make it easier to share code inside and outside a TRE?
 - Best practice for developing and publishing code used in a TRE?
 - Does potential scalability need consideration as well, eg. for High Performance Clusters?
 
-##### Discussion
+#### Discussion
 
 In order to advocate for good development practices within TRE environments, it would be useful to promote guidelines for researchers on reproducible, accessible, and tested, code.
 In short time frames (e.g. workshops) it can be difficult to both teach development processes and practices and ensure you can deliver reproducible results (even in long sessions that last days/weeks).
@@ -213,20 +211,20 @@ Any tools that can make tasks like revision control and automatic backups of wor
 Further considerations need to be discussed around producing realistic dummy data for projects that isn’t noisy, dirty or hard to use.
 This is especially pertinent for large, unstructured datasets.
 
-##### Next steps
+#### Next steps
 
 - Encourage researchers, TRE users, developers, and RSEs to join the community and share RSE good practices.
 - Identify whether requirements discovery is done differently for TREs than for other research projects.
 - Identify the minimum set(s) of software and data skills researchers need to have if doing data analysis within a TRE.
 - Secure funding to run a study to identify researcher classes, software/data skills/knowledge required, and TRE options open for them.
 
-#### Community commitment
+### Community commitment
 
-##### Discussion
+#### Discussion
 
 This session developed the following draft commitment text
 
-##### Next steps
+#### Next steps
 
 - Publish an initial version of the commitment for community input to develop a final version for organisations to sign up to
 - Proactively consult with key organisations we’d like to sign up to the commitment
@@ -237,15 +235,15 @@ This session developed the following draft commitment text
   The Turing Azure TRE
   The Microsoft Azure TRE
 
-#### User experience in TREs
+### User experience in TREs
 
-##### Prompts
+#### Prompts
 
 - What are the barriers to using TREs?
 - Who are we designing TREs for?
 - Are there design principles we can generalise and open source?
 
-##### Discussion
+#### Discussion
 
 A key issue is the lack of understanding and familiarity users already have with TREs.
 They may not be clear on what TREs do, why they are needed, what they are able to do within them, and how to navigate the environment to use the tools they are used to.
@@ -259,22 +257,22 @@ Standardising the TRE user experience may make it easier to move between differe
 However, having different design set-ups that users can choose between may also lead to greater individual ease-of-use, productivity, and happiness.
 A potential route forward is to have a knowable number of workflows that could be standard across TREs whilst also having custom design within a given domain.
 
-##### Next steps
+#### Next steps
 
 - Explore modular components for building researcher-specified TREs - workspaces, environments, data access, tooling etc.
 - Make sure that datasets (data catalogue), TRE options etc. are all properly published, advertised, quickly accessible and well-described.
 - Develop a central resource for TREs - (trustedresearch.ac.uk?) - for publicity, to manage a “trusted packages” repository of tools, catalogue all TREs, data catalogues and more
 
-#### Open source infrastructure and collaborations
+### Open source infrastructure and collaborations
 
-##### Prompts
+#### Prompts
 
 - How many open-source TREs do we want?
 - Do we need separate collaborations for each open-source TRE?
 - Can we collaborate across different TRE platforms?
 - Is it worth considering scalability for TRE platforms?
 
-##### Discussion
+#### Discussion
 
 People are currently using a range of TREs, both on-prem and cloud-based.
 There are a number of open-source solutions out there (e.g. TREEHOOSE, Turing, Microsoft) which can form the basis for collaboration.
@@ -285,21 +283,21 @@ A number of organisations are keen to work together on evaluating current soluti
 These are key areas to explore in the near future.
 It may also be worth considering infrastructure for scaling computational power, and if connecting with groups like HPC-UK to ease scalability would be beneficial.
 
-##### Next steps
+#### Next steps
 
 - Establish methods to explore common governance, initially by sending invitation to a kick-off meeting
 - Organise a similar discussion & exploration on code - What do we have already, do we want to combine or adopt a single codebase
 - Connect with institutions that focus on scalability of computation and assess whether that could be helpful to consider in developing TRE standards.
 
-#### Safe data linkage and quality control
+### Safe data linkage and quality control
 
-##### Prompts
+#### Prompts
 
 - How do we easily and securely share data across environments?
 - How can we safely link different and potentially disparate datasets together?
 - How can we ensure data quality in huge, complex, and standalone datasets?
 
-##### Discussion
+#### Discussion
 
 In practical domains, like health, data that is created by practitioners is not always created to be used for data analysis.
 Encoding may not follow precise details but rather broad categories.
@@ -313,22 +311,22 @@ In either case, it would be difficult to ensure processing is happening in a sta
 
 Further options, like an API to share data across TREs, or incentives for data quality assurance, could help with the issue of data linkage.
 
-##### Next steps
+#### Next steps
 
 - Discuss and resolve the question of who has responsibility for data quality, and how they are incentivised
 - Talk to people providing TREs and see how willing they are to describe how they do processing.
 - Determine whether anyone links data between environments currently?
 
-#### Ingress/egress mechanisms/controls/policies
+### Ingress/egress mechanisms/controls/policies
 
-##### Prompts
+#### Prompts
 
 - How can we make it easier for users to ingress/egress files?
 - Can the work of data governors who have to review files be partially automated?
 - Is it acceptable to automatically proxy limited external repositories?
 - How can we ensure all packages and software are up to date without compromising security?
 
-##### Discussion
+#### Discussion
 
 There are different considerations to bear in mind depending on what is being ingressed or egressed.
 For data, some organisations process the data before ingress, whilst others bring in raw data and process it within a TRE before making it available to researchers.
@@ -343,7 +341,7 @@ For egress, teams have a variety of approaches involving different stakeholders.
 This can range from checks by team members, project investigators, IT teams and information governance officers.
 It was agreed that some mechanism for quantifying the sensitivity of the egress outputs, and guidance on appropriate ways to carry out egress, could be useful - a starting point could be the Turing Institute’s data classification process.
 
-##### Next steps
+#### Next steps
 
 - Establish a shared method for data classifications across TREs, and explore what methods already exist at different institutions
 - Form guidance on how ingress (and egress) should work, for instance whether all TREs with NHS data should receive information in the same way.

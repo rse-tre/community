@@ -1,6 +1,4 @@
-(rsecon22_day_details)=
-
-# Dat schedule
+# Day schedule
 
 ## 09:00 - 16:00 Monday 5th September 2022
 
