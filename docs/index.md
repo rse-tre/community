@@ -4,7 +4,7 @@
 :maxdepth: 1
 :hidden: true
 
-meetings/index
+events/index
 background/index
 vision/index
 ```
@@ -17,14 +17,14 @@ We aim to collaborate on and communicate about open-source TRE infrastructure.
 
 Please feel free to explore! A few possible places to start:
 
-## {ref}`events`
+## [](events/index)
 
 - A store of reports on previous events run by the group, and a schedule of upcoming engagements.
 
-## {ref}`background`
+## [](background/index)
 
 - The place to begin to understand the TRE landscape. What are they, why do we need them, what are current project, team, national and international approaches?
 
-## {ref}`vision`
+## [](vision/index)
 
 - More detail on what we stand for as a community, including our governing commitment.
