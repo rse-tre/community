@@ -15,33 +15,33 @@ To have a community space where people can collaborate on and communicate about 
 
 ## Schedule
 
-| Time            | Session                                                                                                                                                                         | Speakers                |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 09:00 - 09:30   | Arrival (coffee and pastries)                                                                                                                                                   |
-| 09:30 - 09:50   | Introduction                                                                                                                                                                    | Simon Li & Hari Sood    |
-|                 | **Community presentations** :point_down:                                                                                                                                        |
-| _09:50 - 10:30_ | _Organisational overviews_                                                                                                                                                      |
-|                 | {download}`ADR Scotland at EPCC <presentations/Organisational overviews/Michael Jackson EPCC-ADRS-TRE-20220905.pptx>`                                                           | Mike Jackson            |
-|                 | HRA                                                                                                                                                                             | Alan Smith              |
-|                 | {download}`SDAP <presentations/Organisational overviews/Martin OReilly 2022-08-05 - TRE Workshop - SDAP intro.pptx>`                                                            | Martin O'Reilly         |
-|                 | {download}`Microsoft UK for Precision Medicine <presentations/Organisational overviews/Alessandro Riccombeni Slides for Turing.pdf>`                                            | Alessandro Riccombeni   |
-| _10:30 - 10:35_ | Break                                                                                                                                                                           |
-| _10:35 - 11:30_ | _TRE implementations_                                                                                                                                                           |
-|                 | {download}`Secure workflows for HPC <presentations/TRE Implementations/Harvey Richardson RSECon22_TRE_HPE.pdf>`                                                                 | Harvey Richardson       |
-|                 | {download}`The Outbreak Data Analysis Platform <presentations/TRE Implementations/Andrew Brooks ODAP presentation at RSECon-TRE.pptx>`                                          | Andrew Brooks           |
-|                 | {download}`The Alan Turing Institute's Data Safe Haven <presentations/TRE Implementations/James Robinson 2022-09-05 Data Safe Haven - RSECon22.pptx>`                           | James Robinson          |
-|                 | {download}`Sensitive Research Data Service <presentations/TRE Implementations/Lucy Cheesman 220905 TRE Day Sheffield.pdf>`                                                      | University of Sheffield |
-|                 | {download}`Design of a local TRE for process of patient records <presentations/TRE Implementations/Thomas Arildsen 20220905-rsecon-tre.pdf>`                                    | Thomas Arildsen         |
-|                 | {download}`The TREEHOOSE Open Source Cloud TRE <presentations/TRE Implementations/Chris Cole TREEHOOSE_talk.pptx>`                                                              | Chris Cole              |
-| _11:30 - 11:45_ | _Using TREs_                                                                                                                                                                    |
-|                 | {download}`Developing and Publishing Code for Trusted Research Environments: Best Practices and Ways of Working <presentations/Using TREs/Ed Chalstrey TRE talk RSEcon22.pptx>` | Ed Chalstrey            |
-|                 | {download}`Understanding researcher needs in TREs <presentations/Using TREs/Meag Doherty TRE_RSE_slides.pptx>`                                                                  | Meag Doherty            |
-| 11:45 - 12:00   | Morning wrap up                                                                                                                                                                 |
-| ---             | ---                                                                                                                                                                             | ---                     |
-| 12:00 - 13:00   | Lunch                                                                                                                                                                           |
-| 13:00 - 13:15   | Introduction for afternoon                                                                                                                                                      |
-| 13:15 - 15:00   | Unconference style breakouts & discussions                                                                                                                                      |
-| 15:15 - 16:00   | Washup                                                                                                                                                                          |
+| Time            | Session                                                                                                                                                              | Speakers                |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 09:00 - 09:30   | Arrival (coffee and pastries)                                                                                                                                        |
+| 09:30 - 09:50   | Introduction                                                                                                                                                         | Simon Li & Hari Sood    |
+|                 | **Community presentations** :point_down:                                                                                                                             |
+| _09:50 - 10:30_ | _Organisational overviews_                                                                                                                                           |
+|                 | [ADR Scotland at EPCC](presentations/Organisational_overviews/Michael_Jackson_EPCC-ADRS-TRE-20220905.pptx)                                                           | Mike Jackson            |
+|                 | HRA                                                                                                                                                                  | Alan Smith              |
+|                 | [SDAP](presentations/Organisational_overviews/Martin_OReilly_2022-08-05_-_TRE_Workshop_-_SDAP_intro.pptx)                                                            | Martin O'Reilly         |
+|                 | [Microsoft UK for Precision Medicine](presentations/Organisational_overviews/Alessandro_Riccombeni_Slides_for_Turing.pdf)                                            | Alessandro Riccombeni   |
+| _10:30 - 10:35_ | Break                                                                                                                                                                |
+| _10:35 - 11:30_ | _TRE implementations_                                                                                                                                                |
+|                 | [Secure workflows for HPC](presentations/TRE_Implementations/Harvey_Richardson_RSECon22_TRE_HPE.pdf)                                                                 | Harvey Richardson       |
+|                 | [The Outbreak Data Analysis Platform](presentations/TRE_Implementations/Andrew_Brooks_ODAP_presentation_at_RSECon-TRE.pptx)                                          | Andrew Brooks           |
+|                 | [The Alan Turing Institute's Data Safe Haven](presentations/TRE_Implementations/James_Robinson_2022-09-05_Data_Safe_Haven_-_RSECon22.pptx)                           | James Robinson          |
+|                 | [Sensitive Research Data Service](presentations/TRE_Implementations/Lucy_Cheesman_220905_TRE_Day_Sheffield.pdf)                                                      | University of Sheffield |
+|                 | [Design of a local TRE for process of patient records](presentations/TRE_Implementations/Thomas_Arildsen_20220905-rsecon-tre.pdf)                                    | Thomas Arildsen         |
+|                 | [The TREEHOOSE Open Source Cloud TRE](presentations/TRE_Implementations/Chris_Cole_TREEHOOSE_talk.pptx)                                                              | Chris Cole              |
+| _11:30 - 11:45_ | _Using TREs_                                                                                                                                                         |
+|                 | [Developing and Publishing Code for Trusted Research Environments: Best Practices and Ways of Working](presentations/Using_TREs/Ed_Chalstrey_TRE_talk_RSEcon22.pptx) | Ed Chalstrey            |
+|                 | [Understanding researcher needs in TREs](presentations/Using_TREs/Meag_Doherty_TRE_RSE_slides.pptx)                                                                  | Meag Doherty            |
+| 11:45 - 12:00   | Morning wrap up                                                                                                                                                      |
+| ---             | ---                                                                                                                                                                  | ---                     |
+| 12:00 - 13:00   | Lunch                                                                                                                                                                |
+| 13:00 - 13:15   | Introduction for afternoon                                                                                                                                           |
+| 13:15 - 15:00   | Unconference style breakouts & discussions                                                                                                                           |
+| 15:15 - 16:00   | Washup                                                                                                                                                               |
 
 ### Suggested topics for afternoon discussion
 

@@ -39,6 +39,8 @@ The morning presentations were split into three broad categories of ‘organisat
 
 #### ADR Scotland (ADR-S) at EPCC
 
+[pptx](presentations/Organisational_overviews/Michael_Jackson_EPCC-ADRS-TRE-20220905.pptx)
+
 _Michael Jackson_
 
 ADR-S, a collaboration between the Scottish Government, Public Health Scotland, National Records of Scotland, and EPCC at The University of Edinburgh, is creating a reusable portfolio of de-identified, linkable, administrative data from across Scottish government departments and local authorities, and provides a secure route for accredited researchers to use both this data and de-identified health data from health authorities.
@@ -52,12 +54,16 @@ Their current work in the TRE space is to establish a form of certification for 
 
 #### Safe Data Access Professionals
 
+[pptx](presentations/Organisational_overviews/Martin_OReilly_2022-08-05_-_TRE_Workshop_-_SDAP_intro.pptx)
+
 _Martin O’Reilly_
 
 SDAP is an informal peer support group of professionals from different organisations running Trusted Research Environments.
 The group has organised knowledge sharing and community events, and facilitated discussion on topics like developing a competency framework around running a data safe haven, statistical disclosure control, and training for users.
 
 #### Microsoft UK for Precision Medicine
+
+[pdf](presentations/Organisational_overviews/Alessandro_Riccombeni_Slides_for_Turing.pdf)
 
 _Alessandro Riccombeni_
 
@@ -70,11 +76,15 @@ It is driven by user needs, and they are very open to feedback on the codebase.
 
 #### Secure workflows for HPC
 
+[pdf](presentations/TRE_Implementations/Harvey_Richardson_RSECon22_TRE_HPE.pdf)
+
 _Harvey Richardson_
 
 HPC/AI EMEA Research Lab is a research group distributed across Europe, who have been working on Proof-of-Concept technology to allow research teams to securely transfer applications and sensitive data to an environment that will allow them to utilise HPC resources.
 
 #### The Outbreak Data Analysis Platform
+
+[pptx](presentations/TRE_Implementations/Andrew_Brooks_ODAP_presentation_at_RSECon-TRE.pptx)
 
 _Andrew Brooks_
 
@@ -82,7 +92,9 @@ The ODAP project at EPCC grew around the ISARIC (International Severe Acute Resp
 As the need for more compute power became apparent, a ‘pseudo-TRE’ system was built on top of EPCC’s HPC resources.
 Work is ongoing to incorporate HPC within a fully secure environment.
 
-#### The Alan Turing Institute’s Data Safe Haven
+#### The Alan Turing Institute's Data Safe Haven
+
+[pptx](presentations/TRE_Implementations/James_Robinson_2022-09-05_Data_Safe_Haven_-_RSECon22.pptx)
 
 _James Robinson_
 
@@ -93,6 +105,8 @@ Turing are looking for collaborators to work together on a common public codebas
 
 #### Sensitive Research Data Service
 
+[pdf](presentations/TRE_Implementations/Lucy_Cheesman_220905_TRE_Day_Sheffield.pdf)
+
 _University of Sheffield_
 
 The University of Sheffield are building TRE capability on AWS using a software called RONIN.
@@ -101,12 +115,16 @@ There is ongoing work around data and digital infrastructure, end to end support
 
 #### Design of a local TRE for process of patient records
 
+[pdf](presentations/TRE_Implementations/Thomas_Arildsen_20220905-rsecon-tre.pdf)
+
 _Thomas Arildsen_
 
 The research support team CLAAUDIA at Aalborg University developed TRE capabilities to facilitate the transfer of highly sensitive, complete medical records from primary sector to university for research, for which there was a need for a secure platform to store and process data.
 It used the ‘research service’ at Statistics Denmark for inspiration. Full patient records are ingested and pseudonymised within the environment, with researchers gaining access to a more open part of the platform at a later stage.
 
 #### The TREEHOOSE Open Source Cloud TRE
+
+[pptx](presentations/TRE_Implementations/Chris_Cole_TREEHOOSE_talk.pptx)
 
 _Chris Cole_
 
@@ -118,6 +136,8 @@ Building off their own cloud-based TRE and AWS’s own cloud-based TRE developme
 
 #### Developing and Publishing Code for Trusted Research Environments: Best Practices and Ways of Working
 
+[pptx](presentations/Using_TREs/Ed_Chalstrey_TRE_talk_RSEcon22.pptx)
+
 _Ed Chalstrey_
 
 In a collaboration with University of Swansea and University of Manchester, and using the SAIL Databank, Ed has written a report around best practices in developing research code for TREs.
@@ -125,6 +145,8 @@ In a collaboration with University of Swansea and University of Manchester, and 
 The report covers topics like using GitLab, GitHub, notebooks, DOIs, and software licences, and explores questions of where researchers should develop code to be used inside a TRE, and what should be exported from a TRE.
 
 #### Understanding researcher needs in TREs
+
+[pptx](presentations/Using_TREs/Meag_Doherty_TRE_RSE_slides.pptx)
 
 _Meag Doherty_
 
