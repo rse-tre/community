@@ -14,7 +14,7 @@ Whatever your availability, there is a way to contribute to the RSE TRE repo!
 Look through our currently open [issues](../../issues) to troubleshoot an issue or participate in an ongoing discussion by commenting.
 You can also share this repository with someone who might be interested in getting involved.
 
-Alternatively, join our Slack channel - [#rse-tre-wg](https://ukrse.slack.com/archives/C045ETUPPD0) on the [RSE Slack Workspace](https://ukrse.slack.com/) - and get involved with the discussion! 
+Alternatively, join our Slack channel [`#rse-tre-wg`](https://ukrse.slack.com/archives/C045ETUPPD0) on the [RSE Slack Workspace](https://ukrse.slack.com/) and get involved with the discussion! 
 If you're not a member of the RSE Slack and your email domain is approved you can either sign up [here](https://ukrse.slack.com/signup#/domain-signup), otherwise you can fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdqs-_QNwQFzCIUEafah91E5E00lGUEnTPC4jjYbGUqPjONwA/viewform).
 
 ## ⏳ I've got 15 minutes - tell me what I should do
