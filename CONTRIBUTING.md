@@ -36,7 +36,7 @@ For any queries or concerns, you can directly reach out to Hari Sood [hsood@turi
 
 ## ♻️ License
 
-This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**.
+This work is licensed under the **MIT license**.
 
 You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
