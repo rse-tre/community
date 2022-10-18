@@ -9,7 +9,7 @@ https://rse-tre-community.readthedocs.io/
 
 This repo is for Research Software Engineers (RSEs), researchers, Trusted Research Environment (TRE) users, developers and enthusiasts to collaborate on and communicate about open-source TRE infrastructure.
 
-Our [Code of Conduct]() applies to all interactions within this space. We value the participation of every member of the community and want to ensure that everybody has an enjoyable and fulfilling experience. 
+Our [Code of Conduct]() applies to all interactions within this space. We value the participation of every member of the community and want to ensure that everybody has an enjoyable and fulfilling experience.
 
 We want this space to be community-driven, and not have any one voice direct conversation. Please use it as a free-form place to share thoughts and ideas, work together on resolving problems, and discuss where the community should be focusing our efforts!
 
@@ -27,8 +27,9 @@ There are lots of ways to contribute, not just writing docs!
 See our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contributor Guide](CONTRIBUTING.md) to learn more about how we work together as a community and how you can contribute.
 
 # :link: Useful links
-* [Our readthedocs site](https://rse-tre-community.readthedocs.io/en/latest/index.html#)
-* [The report from our latest meeting](https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html)
+
+- [Our readthedocs site](https://rse-tre-community.readthedocs.io/en/latest/index.html#)
+- [The report from our latest meeting](https://rse-tre-community.readthedocs.io/en/latest/events/wg_workshops/rsecon22/index.html)
 
 ## :computer: Building the docs
 
@@ -68,5 +69,7 @@ pre-commit run --all-files
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
