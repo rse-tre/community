@@ -16,7 +16,7 @@ We want this space to be community-driven, and not have any one voice direct con
 # :family: Community and Support
 
 - Visit [our readthedocs site](https://rse-tre-community.readthedocs.io/en/latest/index.html#) to see latest developments with the community
-- Join the `rse-tre-wg` Slack channel in the [RSE Slack Workspace](https://docs.google.com/forms/d/e/1FAIpQLSdqs-_QNwQFzCIUEafah91E5E00lGUEnTPC4jjYbGUqPjONwA/viewform)
+- Join the `rse-tre-wg` [Slack channel](https://ukrse.slack.com/archives/C045ETUPPD0) in the RSE Slack Workspace.
 - Look through our [issues on GitHub](https://github.com/rse-tre/community/issues) to see what we're working on, and create a new issue if you have something to add!
 
 # :handshake: Contributing
