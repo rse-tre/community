@@ -9,7 +9,7 @@ https://rse-tre-community.readthedocs.io/
 
 This repo is for Research Software Engineers (RSEs), researchers, Trusted Research Environment (TRE) users, developers and enthusiasts to collaborate on and communicate about open-source TRE infrastructure.
 
-Our [Code of Conduct]() applies to all interactions within this space. We value the participation of every member of the community and want to ensure that everybody has an enjoyable and fulfilling experience.
+Our [Code of Conduct](CODE_OF_CONDUCT.md) applies to all interactions within this space. We value the participation of every member of the community and want to ensure that everybody has an enjoyable and fulfilling experience.
 
 We want this space to be community-driven, and not have any one voice direct conversation. Please use it as a free-form place to share thoughts and ideas, work together on resolving problems, and discuss where the community should be focusing our efforts!
 
