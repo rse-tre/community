@@ -4,6 +4,7 @@
 :maxdepth: 1
 :hidden: true
 
+newcastle-commitment/index
 events/index
 background/index
 vision/index
@@ -16,6 +17,11 @@ This group consists of RSEs, researchers, TRE users, developers and enthusiasts 
 We aim to collaborate on and communicate about open-source TRE infrastructure.
 
 Please feel free to explore! A few possible places to start:
+
+## [](newcastle-commitment/index)
+
+A commitment to open collaboration for trusted research infrastructure, initially written at the RSE CON 2022 TRE satellite meeting.
+We hope all members of the community will sign-up to this commitment.
 
 ## [](events/index)
 
