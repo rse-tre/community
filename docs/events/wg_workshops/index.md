@@ -4,6 +4,7 @@
 :maxdepth: 2
 
 rsecon22/index
+2022-12-05-december-meeting/index
 
 ```
 
