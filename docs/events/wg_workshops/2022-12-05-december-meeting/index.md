@@ -247,7 +247,7 @@ Participants shared experiences on current standarisation efforts in health and 
 Two main aspects of standarisation efforts were highlighted, the need to communicate with potential researchers about what they mean and entail (e.g. data tiers and what fuctionalities toe xpect for each) and how to maintain said standards. As well as what type of body or isnstitution should watch for compliance, one modelled after the IEEE, one that arises from DARE working group or sector specific like the NHS for health data.
 
 
-[**Full notes**]()
+[**Full notes**](breakout-tre-standardisation.md)
 #### **Information Governance best practice**: 
 
 **Questions addressed**
