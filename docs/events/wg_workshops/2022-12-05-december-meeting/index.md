@@ -230,7 +230,7 @@ Working groups should ensure deliveries and a new one on Open Source TRE could b
 * Understand what is being used already across the research community? What tech? What data? Can we gain insight from the industry? 
 * Make a list of the standards - understand the lay of this land and understand operability between them to see how these can be useful (e.g., operating systems and more granular systems like Docker)
 
-[**Full notes**]()
+[**Full notes**](breakout-federation.md)
 
 ### Session 2
 
