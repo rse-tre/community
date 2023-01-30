@@ -272,7 +272,7 @@ Dundee make their [standard operating procedures](https://www.dundee.ac.uk/corpo
 
 The Manchester Connected Health Cities TRE made their [Information Security Management System documents](https://github.com/connectedhealthcities/chc-gm-isms) available online.
 
-[**Full notes**]()
+[**Full notes**](breakout-information-governance.md)
 
 ## Working group planning
 
