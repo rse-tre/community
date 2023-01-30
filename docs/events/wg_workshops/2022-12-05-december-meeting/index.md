@@ -279,7 +279,6 @@ The Manchester Connected Health Cities TRE made their [Information Security Mana
 It was agreed to create a new Working Group, Open Source TREs.
 
 - Community & Events
-    - https://hackmd.io/xLeTgbEETMO11CgbSRIW3Q
 - Open Source TREs
 - Funding & Sustainability
     - Initial working group session in the new year, specific call for participation to go out on Slack/emmail channels. Email Fergus McDonald (Fergus.McDonald@dareuk.org.uk) if you want to join.
