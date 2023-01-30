@@ -99,7 +99,7 @@ Limitations on how to work with data are obvious but researchers *put up with it
 
 Some other approaches and solutions were shared but making evident that so far they are small scale solutions that fit each projects
 
-[**full notes**]()
+[**full notes**](project-discussion-package-licensing.md)
 
 #### **How best to whitelist software packages for secure environments**
 
