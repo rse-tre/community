@@ -121,7 +121,7 @@ CHAT Qs/reflections:
 
 * Possiblity for a shared list of 'trusted' software packages as part of this community
 
-[**Full notes**]()
+[**Full notes**](project-discussion-allowlist-software.md)
 
 ### Session 2
 
