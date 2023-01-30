@@ -95,7 +95,7 @@ For these two breakout rooms were created for each, with participants joining wh
 Sheffield University shared their experiences where they have 2 TRE environments, one of which has no internet connection.
 HIC (@hari what does it stand for?) has the same issues and approach it with open source solutions on [GitHub](https://github.com/hic-infra/shared-services-ansible-roles/). This means the environment actually has *some* internet connection, implementing automatic scan for viruses and controlling user access with squid proxy.
 
-Limitations on how to work with data are obvious but reserchers *put up with it* because it is actually the only way to access this data.
+Limitations on how to work with data are obvious but researchers *put up with it* because it is actually the only way to access this data.
 
 Some other approaches and solutions were shared but making evident that so far they are small scale solutions that fit each projects
 
