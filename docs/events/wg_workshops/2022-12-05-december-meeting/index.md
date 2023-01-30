@@ -187,7 +187,7 @@ Each of the 3 working groups updated us on their progress.
 #### **Community management, working groups and events** 
 
 This discussion focused on how to organise the community and the kind of involvement it should ask
-** Quesitons addressed**
+** Questions addressed**
 
 - Do we want industry involvement? If so, how to encourage/enable that?
 - How can WGs align with organisations like DARE UK?
