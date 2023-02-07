@@ -1,4 +1,4 @@
-# RSE TRE Community Quarterly Meeting
+# RSE TRE Community Quarterly Meeting (December 2022)
 
 ```{toctree}
 :maxdepth: 1
