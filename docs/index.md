@@ -4,7 +4,7 @@
 :maxdepth: 1
 :hidden: true
 
-Newcastle Commitment to Open Collaboration <newcastle-commitment/index>
+Newcastle Commitment <newcastle-commitment/index>
 events/index
 background/index
 vision/index
