@@ -31,6 +31,6 @@ We hope all members of the community will sign-up to this commitment.
 
 - The place to begin to understand the TRE landscape. What are they, why do we need them, what are current project, team, national and international approaches?
 
-## [](vision/index)
+## [](structure/index)
 
-- More detail on what we stand for as a community, including our governing commitment.
+- More detail on how the community is structured and governed
