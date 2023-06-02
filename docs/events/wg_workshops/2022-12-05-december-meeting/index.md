@@ -163,7 +163,7 @@ Alessandro introduced the topic by describing the UX in Microsoft's TREs and the
 - What are the key challenges as user of a TRE?
 - What would solving the challenge unlock?
 
-![](https://i.imgur.com/Gf8xjBz.png)
+![](Gf8xjBz.png)
 
 ##### Discussion
 
