@@ -1,4 +1,4 @@
-# Research Software Engineers Trusted Research Environment Working Group
+# UK Trusted Research Environment Community
 
 ```{toctree}
 :maxdepth: 1
@@ -10,7 +10,7 @@ background/index
 vision/index
 ```
 
-Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the Research Software Engineers Trusted Research Environment Working Group (name to be updated).
+Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
 
 This group consists of RSEs, researchers, TRE users, developers and enthusiasts sharing best practice and knowledge within the TRE space.
 
