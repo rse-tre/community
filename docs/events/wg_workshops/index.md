@@ -9,7 +9,7 @@ rsecon22/index
 
 ```
 
-The community has agreed to run quarterly workshops to discuss project progress, latest TRE developments, and actions for the community to take together. This page will record reports and outputs from each of these events.
+The community has agreed to run quarterly workshops to discuss project progress, latest TRE developments, and actions for the community to take together. This page contains reports and outputs from each of these events.
 
 ## Background
 
@@ -21,7 +21,7 @@ The in-person event so far has aligned nicely with [RSECon](https://rsecon23.soc
 The aims of the meeting are ...
 
 1. **Bring the community together**: There are many people working in the TRE space in the UK and abroad, facing similar issues and problems when building this complex critical infrastructure. The primary aim of these meetings is to bring this community together to learn from each other, and move forwards together.
-2. **Share knowledge**: Through our primary presentations, workshops and breakout discussions, these meetings provide the space for the community to learn about the TRE landscape, latest TRE developments, and what work others are doing in the space.
+2. **Share knowledge**: Through presentations, workshops and breakout discussions, these meetings provide the space for the community to learn about the TRE landscape, latest TRE developments, and what work others are doing in the space.
 3. **Collaboratively solve problems**: These meetings are a chance for the community to bring forward problems they are facing day-to-day in their TRE work, and resolve these issues in a group setting. This helps promote the benefits of knowledge sharing and community engagement in achieving success.
 4. **Identify and advance community work**: As well as learning about individual project teams' work, these meetings are a chance to hear about our working groups, and identify the work we want to take forwards as a community.
 
