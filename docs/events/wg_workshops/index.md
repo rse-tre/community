@@ -14,7 +14,7 @@ The community has agreed to run quarterly workshops to discuss project progress,
 ## Background
 
 The community workshops happen four times a year, with 3 sessions fully online, half-day events, and one hybrid (primarily in-person) event once a year.
-The in-person event so far has aligned nicely with RSE Con each year, however as the community builds and develops this may be updated.
+The in-person event so far has aligned nicely with [RSECon](https://rsecon23.society-rse.org/) each year, however as the community builds and develops this may be updated.
 
 ### Aims
 
