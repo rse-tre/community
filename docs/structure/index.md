@@ -9,6 +9,7 @@ Currently, there are two main focuses of the community:
 2. Community Working Groups
 
 ## Quarterly Community Events
+
 These started with the inaugural community meeting at RSE Con 22 in September 2022.
 Subsequent online meetings have taken place in December 2022, March 2023 and July 2023.
 
