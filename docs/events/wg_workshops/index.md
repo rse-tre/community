@@ -35,7 +35,7 @@ The meetings vary slightly from session to session, however they broadly follow 
 - **'Keynote' presentation**: A central talk for all attendees to hear about a key aspect of the TRE landscape and have a group discussion. Previous talks have included introductions to DARE UK, the NHS SNSDE work, and OpenSAFELY
 - **Project workshops**: These are breakout workshop spaces for individual project teams to bring a specific problem they are facing in their day-to-day work, and use the group to collaboratively build a solution. Previous examples include creating a fair cost recovery process, allow-listing packages safely, creating a systematic approach to data classification and more.
 - **Breakout discussions**: These are breakout spaces that are more informal than project discussions. Before the meeting attendees are invited to submit general TRE related topics they would like to discuss with the group. These are then used to identify the most popular topics attendees would like to address in breakout discussions
-- **Wrap up and working group checkin**: The final part of the meeting is to bring everyone back together, feedback on the session, before having an optional window for working groups to meet in breakout rooms and plan for the next 3 months
+- **Wrap up and working group checkin**: The final part of the meeting is to bring everyone back together and provide feedback on the session, before having an optional window for working groups to meet in breakout rooms and plan for the next 3 months
 
 ### How to get involved
 
