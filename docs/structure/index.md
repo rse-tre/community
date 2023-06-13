@@ -1,5 +1,15 @@
 # Community structure
 
+```{toctree}
+:maxdepth: 1
+:hidden: true
+
+community-management.md
+open-source-tres.md
+funding-sustainability.md
+information-governance.md
+```
+
 The community is currently entirely volunteer-driven, with no formally allocated time or resources for anyone.
 As the community grows and develops, we may need to think about more robust infrastructure concerning its operation and governance.
 
@@ -8,7 +18,7 @@ Currently, there are two main focuses of the community:
 1. Quarterly community events
 2. Community Working Groups
 
-## Quarterly Community Events
+## Quarterly Community Events
 
 These started with the inaugural community meeting at RSE Con 22 in September 2022.
 Subsequent online meetings have taken place in December 2022, March 2023 and July 2023.

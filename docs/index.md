@@ -7,7 +7,7 @@
 newcastle-commitment/index
 events/index
 background/index
-vision/index
+structure/index
 ```
 
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the Research Software Engineers Trusted Research Environment Working Group (name to be updated).
