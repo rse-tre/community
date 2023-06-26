@@ -5,7 +5,7 @@
 :hidden: true
 
 community-management.md
-open-source-tres.md
+open-source-open-standards.md
 funding-sustainability.md
 information-governance.md
 ```
@@ -32,7 +32,7 @@ These working groups are self organised, and aim to make progress on their respe
 
 The four working groups are:
 
-- [**Open Source TREs**](./open-source-tres.md): moving towards referenceable, interoperable open TRE infrastructure
+- [**Open Source & Open Standards**](./open-source-open-standards.md): Promoting open standards and open source TRE infrastructure
 - [**Community Management & Engagement**](./community-management.md): running this group effectively, and engaging all relevant stakeholders
 - [**Funding & Sustainability**](./funding-sustainability.md): Exploring funding models and operation models to enable long-term sustainability and realisation of TRE infrastructure
 - [**Information Governance**](./information-governance.md): Managing information governance requirements within TRE infrastructure, and moving towards standardisation
