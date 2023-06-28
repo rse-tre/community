@@ -33,5 +33,5 @@ myst_linkify_fuzzy_links = False
 html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 
-html_logo = "_static/banana-dance-dancing-banana.gif"
-html_favicon = "_static/banana-dance-dancing-banana.gif"
+html_logo = "_static/uktre-logo.svg"
+html_favicon = "_static/uktre-logo.svg"
