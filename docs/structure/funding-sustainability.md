@@ -22,6 +22,6 @@
 - This working group will operate indefinetely, although it may reassess its focus on a rolling basis and after delivery of initial outputs
 - The WG meets every three weeks on Friday afternoon from 13:00 - 14:00.
 
-## Get involved 
+## Get involved
 
 Email Fergus (Fergus.McDonald@dareuk.org.uk) if you would like to be part of this working group!
