@@ -230,7 +230,7 @@ The group discussed first the feasibility of a common language around risk and t
 - [Alan Turing Institute](https://arxiv.org/pdf/1908.08737.pdf)
   - Sheffield used this as the basis of their system for assessing risk.
 - [NIST RMF](https://csrc.nist.gov/projects/risk-management/about-rmf)
-- [NCSC](https://www.ncsc.gov.uk/collection/risk-management-collection)
+- [NCSC](https://www.ncsc.gov.uk/collection/risk-management)
 - [Harvard DataTags](https://github.com/IQSS/DataTaggingLibrary)
 - [UK Data Service data types](https://ukdataservice.ac.uk/help/access-policy/types-of-data-access/)
 
