@@ -3,7 +3,8 @@
 ```{toctree}
 :maxdepth: 2
 
-2023-03-29-march-meeting/index.md
+2023-06-28-june-meeting/index
+2023-03-29-march-meeting/index
 2022-12-05-december-meeting/index
 rsecon22/index
 
