@@ -40,3 +40,8 @@ html_theme_options = {
     "footer_start": ["copyright"],
     "footer_end": ["footer-links"],
 }
+
+# -- Link checker configuration
+# https://www.swansea.ac.uk/the-university/location/#bay-campus=is-expanded
+# is a JavaScript only anchor
+linkcheck_anchors_ignore = ["bay-campus=is-expanded"]
