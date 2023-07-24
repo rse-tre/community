@@ -35,3 +35,8 @@ html_static_path = ["_static"]
 
 html_logo = "_static/uktre-logo.svg"
 html_favicon = "_static/uktre-logo.svg"
+
+html_theme_options = {
+    "footer_start": ["copyright"],
+    "footer_end": ["footer-links"],
+}
