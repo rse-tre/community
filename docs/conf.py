@@ -22,7 +22,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
-myst_enable_extensions = ["linkify"]
+myst_enable_extensions = ["fieldlist", "linkify"]
 myst_linkify_fuzzy_links = False
 
 
