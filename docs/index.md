@@ -10,6 +10,13 @@ background/index
 structure/index
 ```
 
+```{admonition} UK-TRE September meeting
+:class: attention
+
+Registration for the [UK-TRE September meeting is now live!](events/wg_workshops/2023-09-04-september-meeting/index)
+The biggest meetup of the UK TRE community to date with presentations, breakout discussions and a keynote from HDR UK on the future of TREs.
+```
+
 Welcome to the site! This site containts resources, reports, meeting notes, discussions and more associated with the UK Trusted Research Environment Community.
 
 This group consists of RSEs, researchers, TRE users, developers and enthusiasts sharing best practice and knowledge within the TRE space.
