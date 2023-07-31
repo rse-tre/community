@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "RSE TRE"
-copyright = "2022, RSE TRE"
+copyright = "2022-2023, RSE TRE"
 author = "RSE TRE"
 
 # -- General configuration ---------------------------------------------------
@@ -15,15 +15,11 @@ author = "RSE TRE"
 
 extensions = [
     "myst_parser",
+    "sphinx_reredirects",
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
-
-
-# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
-myst_enable_extensions = ["fieldlist", "linkify"]
-myst_linkify_fuzzy_links = False
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -36,12 +32,8 @@ html_static_path = ["_static"]
 html_logo = "_static/uktre-logo.svg"
 html_favicon = "_static/uktre-logo.svg"
 
-html_theme_options = {
-    "footer_start": ["copyright"],
-    "footer_end": ["footer-links"],
-}
+# Redirect index pages to new uktre site, RTD will handle all other redirects
+# https://documatt.gitlab.io/sphinx-reredirects/usage.html
+redirects = {"index": "https://uktre.readthedocs.io/en/latest/"}
 
-# -- Link checker configuration
-# https://www.swansea.ac.uk/the-university/location/#bay-campus=is-expanded
-# is a JavaScript only anchor
-linkcheck_anchors_ignore = ["bay-campus=is-expanded"]
+html_baseurl = "https://uktre.readthedocs.io/en/latest/"
